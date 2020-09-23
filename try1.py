@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import mplcursors
 import pandas as pd
-#hello
+
 x,y=77.5031,28.67535
 da=pd.read_csv('route.txt')
 a=list(da.longitude)
