@@ -1,0 +1,20 @@
+CS_IT 1
+main 2
+back_block 3
+faith_centre 4
+mca_block 5
+me_block 6
+skill_centre 7
+tifac_core 8
+mechanical_canteen 9
+workshop 10
+professors_parking 11
+lecture_theater 12
+gh 13
+gh 14
+parking 15
+gh-03 16
+senior boys hostel 17
+bh-02 18
+bh-03 19
+gym 20

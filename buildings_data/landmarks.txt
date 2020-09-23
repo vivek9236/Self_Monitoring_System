@@ -1,0 +1,74 @@
+28.6742237, 77.5031841 --> Boys_hostel 3 (39)
+28.6756021, 77.5029457 --> cs_it (45)
+28.6758766, 77.5030481 --> parking (46)
+28.6731278, 77.5040400 --> Dr.ram saran garg indogerman (54)
+28.6748907, 77.5015835 --> skil_centre (28)
+28.6774123, 77.4997757 --> main_gate (0)
+28.6765883, 77.5026391 --> girls_hostel (13)
+28.6773922, 77.5020079 --> Faith_center (73)
+28.6764978, 77.5030861 --> girls_hostel_1 (65)
+28.6769144, 77.5033818 --> girls_hostel_2 (67)
+28.6759806, 77.5043224 --> girls_hostel_3 (62) 
+28.6752174, 77.5032617 --> cs_it_canteen (79)
+28.6740328, 77.5045300 --> boys_hostel_2 (57) 
+28.6748794, 77.5033729 --> senior_boys_hostel (75)
+28.6766107, 77.5014377 --> ME_canteen (83)
+28.6765380, 77.5016034 --> mechanical_block (82)
+28.6762097, 77.5018023 --> lecture_theatures (93)
+28.6768495, 77.5006230 --> academic_block (91)
+28.6762947, 77.5013237 --> Electronics_depertment (89)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"boys hostel 3" :39,
+"c h block" :45,
+"cs block" : 45,
+"it block" : 45,
+"computer science department" : 45,
+"civil department" : 45,
+"information technology department " : 45,
+"parking" :46,
+"sharan garg" :54,
+"indo german hospital" :54,
+"hospital" :54,
+"skill centre" :28,
+"mca block" :0,
+"main gate": 0,
+"girls hostel" :13,
+'temple' :73,
+'girls hostel 1' :65,
+'girls hostel 2' :67,
+'girls hostel 3' :62,
+'csd canteen' :79,
+'cafeteria':79,
+'boys hostel 2' :57,
+'near boys hostel':75,
+'senior boys hostel' :75,
+'me canteen' :83,
+'army canteen' : 83,
+'mechanical block' :82,
+'lecture theatre' :93,
+'academic block' :91,
+'central library' : 91,
+'library' : 91,
+'electronics depertment' :89,
+'ece department' :89,
+'back block' : 89
+}
